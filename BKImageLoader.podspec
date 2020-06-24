@@ -8,7 +8,7 @@ s.summary = "BKImageLoader - Simple image loader for downloading remote images a
 s.requires_arc = true
 
 # 2
-s.version = "0.1.2"
+s.version = "0.1.4"
 
 # 3
 s.license = { :type => "MIT", :file => "LICENSE" }
@@ -34,6 +34,6 @@ s.source_files = "BKImageLoader/**/*.{swift}"
 #s.resources = "BKImageLoader/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
 
 # 10
-#s.swift_version = "5.0"
+#s.swift_version = "4.2"
 
 end
