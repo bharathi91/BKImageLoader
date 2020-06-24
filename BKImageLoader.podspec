@@ -21,7 +21,7 @@ s.homepage = "https://github.com/bharathi91/BKImageLoader"
 
 # 6 - Replace this URL with your own Git URL from "Quick Setup"
 s.source = { :git => "https://github.com/bharathi91/BKImageLoader.git",
-             :tag => "#{s.version}" }
+             :tag => "#{s.version.to_s}" }
 
 # 7
 s.framework = "UIKit"
